@@ -1,0 +1,216 @@
+{
+    "products": [
+        {
+            "heading": "Up to 60% off | Top picks",
+            "items": [
+                {
+                    "id": 43,
+                    "title": "Vacuum Cleaner",
+                    "price": 599.99,
+                    "description": "Dyson’s most powerful and intelligent cordless vacuum. Deep cleans carpets and hard floors with ease.",
+                    "category": "home appliances",
+                    "image": "https://m.media-amazon.com/images/I/51PSNwfHAlL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.8,
+                        "count": 1200
+                    }
+                },
+                {
+                    "id": 44,
+                    "title": "Moisturizer",
+                    "price": 27.99,
+                    "description": "Anti-aging face moisturizer with SPF 25 to protect against sun damage while hydrating and firming skin.",
+                    "category": "beauty",
+                    "image": "https://m.media-amazon.com/images/I/81tTgiDDyWL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.4,
+                        "count": 600
+                    }
+                },
+                {
+                    "id": 45,
+                    "title": "Electric Toothbrush",
+                    "price": 129.99,
+                    "description": "Electric toothbrush that removes up to 7x more plaque than a manual toothbrush. Includes 3 intensities and 3 modes.",
+                    "category": "personal care",
+                    "image": "https://m.media-amazon.com/images/I/81t25XAr0LL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.6,
+                        "count": 2400
+                    }
+                },
+                {
+                    "id": 46,
+                    "title": "High-Speed Blender",
+                    "price": 89.99,
+                    "description": "Powerful 900-watt motor to blend even the toughest ingredients for smoothies, sauces, and more.",
+                    "category": "kitchen",
+                    "image": "https://m.media-amazon.com/images/I/71P05MnlksL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.7,
+                        "count": 900
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Appliances for your home | Up to 55% off",
+            "items": [
+                {
+                    "id": 47,
+                    "title": "Running Shoes",
+                    "price": 180.00,
+                    "description": "Responsive running shoes designed for performance with Boost cushioning technology.",
+                    "category": "footwear",
+                    "image": "https://m.media-amazon.com/images/I/71Kx25gubjL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.9,
+                        "count": 800
+                    }
+                },
+                {
+                    "id": 48,
+                    "title": "Apple AirPods Pro",
+                    "price": 249.99,
+                    "description": "Active noise cancellation for immersive sound. Transparency mode for hearing and connecting with the world around you.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.8,
+                        "count": 6700
+                    }
+                },
+                {
+                    "id": 49,
+                    "title": "OLED Model",
+                    "price": 349.99,
+                    "description": "The latest model of the popular gaming console, featuring a vibrant 7-inch OLED screen for enhanced gaming experience.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.9,
+                        "count": 8500
+                    }
+                },
+                {
+                    "id": 50,
+                    "title": "Iron Dutch Oven",
+                    "price": 369.95,
+                    "description": "Iconic French cookware, ideal for slow-cooking, braising, and roasting, with superior heat retention and distribution.",
+                    "category": "kitchen",
+                    "image": "https://m.media-amazon.com/images/I/6180Lmu5fEL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.9,
+                        "count": 1200
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Starting ₹199 | LELO Brands & more",
+            "items": [
+                {
+                    "id": 51,
+                    "title": "Wireless eadphones",
+                    "price": 348.00,
+                    "description": "Industry-leading noise cancellation technology, exceptional sound quality, and up to 30 hours of battery life.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/51ET-EQJMWL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.8,
+                        "count": 5100
+                    }
+                },
+                {
+                    "id": 52,
+                    "title": "Rambler Tumbler",
+                    "price": 29.99,
+                    "description": "Durable stainless steel tumbler with double-wall vacuum insulation to keep your drinks hot or cold for hours.",
+                    "category": "outdoor & sports",
+                    "image": "https://m.media-amazon.com/images/I/61nuTP5jrSL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.7,
+                        "count": 2100
+                    }
+                },
+                {
+                    "id": 53,
+                    "title": "Fitness Tracker",
+                    "price": 149.95,
+                    "description": "Track your fitness, heart rate, sleep, and stress with the latest fitness tracker that includes built-in GPS and ECG app.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/51qHOQ7FaJL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.5,
+                        "count": 3500
+                    }
+                },
+                {
+                    "id": 54,
+                    "title": "All-In-One Virtual Reality Headset",
+                    "price": 399.00,
+                    "description": "Experience total immersion in virtual reality with the latest Oculus Quest 2 headset, offering intuitive controls and crisp visuals.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/61mpOk4jguL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.7,
+                        "count": 4600
+                    }
+                }
+            ]
+        },
+        {
+            "heading": "Starting ₹199 | LELO Brands & more",
+            "items": [
+                {
+                    "id": 55,
+                    "title": "Massage Device",
+                    "price": 399.99,
+                    "description": "Deep tissue massage gun for muscle recovery and pain relief, featuring quiet technology and customizable speed settings.",
+                    "category": "health & wellness",
+                    "image": "https://m.media-amazon.com/images/I/61JqEoFS7dL._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.6,
+                        "count": 2300
+                    }
+                },
+                {
+                    "id": 56,
+                    "title": "Coffee Maker",
+                    "price": 199.99,
+                    "description": "Brew stronger, hotter, and more customized coffee with Keurig’s most advanced coffee maker. Features WiFi connectivity.",
+                    "category": "kitchen",
+                    "image": "https://m.media-amazon.com/images/I/61zmGKxxd4S._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.5,
+                        "count": 3200
+                    }
+                },
+                {
+                    "id": 57,
+                    "title": "Water Bottle",
+                    "price": 44.95,
+                    "description": "Insulated stainless steel water bottle that keeps beverages cold for up to 24 hours or hot for up to 12 hours.",
+                    "category": "outdoor & sports",
+                    "image": "https://m.media-amazon.com/images/I/61INlllEk3L._AC_UL480_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.8,
+                        "count": 1800
+                    }
+                },
+                {
+                    "id": 58,
+                    "title": "Waterproof Action Camera",
+                    "price": 499.99,
+                    "description": "Capture high-quality 5.3K video and stunning 23MP photos with the latest GoPro HERO10, perfect for adventures.",
+                    "category": "electronics",
+                    "image": "https://m.media-amazon.com/images/I/51mcDVUBaxL._AC_UY327_FMwebp_QL65_.jpg",
+                    "rating": {
+                        "rate": 4.8,
+                        "count": 1800
+                    }
+                }
+            ]
+        }
+    ]
+}

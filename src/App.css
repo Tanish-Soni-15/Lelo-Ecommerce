@@ -1,0 +1,46 @@
+.scroll-container {
+    display: flex;
+    align-items: center;
+    position: relative;
+  }
+  
+  .product-list {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px;
+    list-style: none;
+    white-space: nowrap;
+    gap: 15px;
+    scroll-behavior: smooth; /* Enable smooth scrolling */
+  }
+  
+  .product-list li {
+    flex: 0 0 auto;
+  }
+  
+  .product-list img {
+    max-width: 150px;
+    display: block;
+    border-radius: 8px;
+  }
+  
+  /* Scroll button styles */
+  .scroll-button {
+    background-color: #ddd;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 4px;
+    margin: 0 5px;
+  }
+  
+  .scroll-button:hover {
+    background-color: #bbb;
+  }
+  
+  .scroll-button:disabled {
+    background-color: #f0f0f0;
+    cursor: not-allowed;
+  }
+  

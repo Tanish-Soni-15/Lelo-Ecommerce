@@ -1,0 +1,10 @@
+.uu li{
+    padding: 2px 0px;
+}
+.uu li:hover{
+    cursor: pointer;
+    font-weight: 600;
+    transition: 0.3s;
+    text-underline-offset: 4px;
+    text-decoration: underline;
+}

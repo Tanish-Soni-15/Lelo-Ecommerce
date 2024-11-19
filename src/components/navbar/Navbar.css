@@ -1,0 +1,9 @@
+.cursorpointer:hover{
+    cursor: pointer;
+    transition: 0.3s;
+    text-underline-offset: 4px;
+    text-decoration: underline;
+}
+.crt{
+    border-right: 2px solid rgb(161, 161, 161);
+}

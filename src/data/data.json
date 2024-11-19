@@ -1,0 +1,991 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": 109.95,
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+      "category": "menfashion",
+      "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+      "rating": {
+        "rate": 4.0,
+        "count": 100
+      }
+    },
+    {
+      "id": 2,
+      "title": "Mens Casual Premium Slim Fit T-Shirts",
+      "price": 22.3,
+      "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+      "category": "menfashion",
+      "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 259
+      }
+    },
+    {
+      "id": 3,
+      "title": "Mens Cotton Jacket",
+      "price": 55.99,
+      "description": "Great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm-hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+      "category": "menfashion",
+      "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 500
+      }
+    },
+    {
+      "id": 4,
+      "title": "Mens Casual Slim Fit",
+      "price": 15.99,
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+      "category": "menfashion",
+      "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.1,
+        "count": 430
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 9,
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+      "price": 64,
+      "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+      "rating": {
+        "rate": 3.3,
+        "count": 203
+      }
+    },
+    {
+      "id": 10,
+      "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+      "price": 109,
+      "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 470
+      }
+    },
+    {
+      "id": 11,
+      "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+      "price": 109,
+      "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 319
+      }
+    },
+    {
+      "id": 12,
+      "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+      "price": 114,
+      "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 400
+      }
+    },
+    {
+      "id": 13,
+      "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+      "price": 599,
+      "description": "21.5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16.7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 250
+      }
+    },
+    {
+      "id": 14,
+      "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED",
+      "price": 999.99,
+      "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag.",
+      "category": "electronics",
+      "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 2.2,
+        "count": 140
+      }
+    },
+    {
+      "id": 15,
+      "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+      "price": 56.99,
+      "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm. Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys) and 1 Hidden Pocket Inside. Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water, for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 2.6,
+        "count": 235
+      }
+    },
+    {
+      "id": 16,
+      "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+      "price": 29.95,
+      "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 2.9,
+        "count": 340
+      }
+    },
+    {
+      "id": 17,
+      "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+      "price": 39.99,
+      "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it. Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 679
+      }
+    },
+    {
+      "id": 18,
+      "title": "MBJ Women's Solid Short Sleeve Boat Neck V",
+      "price": 9.85,
+      "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 130
+      }
+    },
+    {
+      "id": 19,
+      "title": "Opna Women's Short Sleeve Moisture",
+      "price": 7.95,
+      "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 146
+      }
+    },
+    {
+      "id": 20,
+      "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+      "price": 12.99,
+      "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print, V-Neck, Fashion Tees, The fabric is soft and has some stretch. Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring, Summer, Autumn, Winter.",
+      "category": "womenfashion",
+      "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+      "rating": {
+        "rate": 3.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 21,
+      "title": "Logitech MX Master 3 Advanced Wireless Mouse",
+      "price": 99.99,
+      "description": "The MX Master 3 is faster and 5x more precise than basic mice, so you always hit the right pixel. It is Logitech's most advanced Master Series mouse yet – designed for creatives and engineered for coders.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61VjlQUqQDL._AC_SX679_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 520
+      }
+    },
+    {
+      "id": 22,
+      "title": "Sony WH-1000XM4 Wireless Noise Canceling Over-Ear Headphones",
+      "price": 348.00,
+      "description": "Industry-leading noise cancellation with Dual Noise Sensor technology. Next-level music with Edge-AI, co-developed with Sony Music Studios Tokyo.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51ET-EQJMWL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 1100
+      }
+    },
+    {
+      "id": 23,
+      "title": "Anker PowerCore 10000 Portable Charger",
+      "price": 24.99,
+      "description": "The Anker Advantage: Join the 50 million+ powered by our leading technology. Anker's exclusive PowerIQ and VoltageBoost combine to deliver the fastest possible charge for any device.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71s9NDno3FL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 850
+      }
+    },
+    {
+      "id": 24,
+      "title": "Apple iPhone 13 Pro Max (256GB)",
+      "price": 1099.00,
+      "description": "iPhone 13 Pro Max. The biggest Pro camera system upgrade ever. Super Retina XDR display with ProMotion. Incredible leap in battery life.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/616gxTBH8cL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 920
+      }
+    },
+    {
+      "id": 25,
+      "title": "Dell XPS 13 Laptop (2022 Model)",
+      "price": 1399.99,
+      "description": "13.4-inch UHD+ touchscreen, Intel Core i7-1195G7, 16GB RAM, 512GB SSD, Intel Iris Xe Graphics, Windows 11 Home.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71vkuXlxH8L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 290
+      }
+    },
+    {
+      "id": 26,
+      "title": "Fitbit Charge 5 Fitness Tracker",
+      "price": 179.95,
+      "description": "Optimize your workout routine with Fitbit Charge 5, which tracks heart rate, stress management, and offers built-in GPS. Enjoy up to 7 days of battery life.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51qHOQ7FaJL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 1200
+      }
+    },
+    {
+      "id": 27,
+      "title": "Adidas Men's Ultraboost 21 Running Shoe",
+      "price": 180.00,
+      "description": "Responsive and energizing, the Ultraboost 21 features Boost midsole cushioning for superior comfort and a durable outsole for traction on every run.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/61HTX8BIH6S._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 415
+      }
+    },
+    {
+      "id": 28,
+      "title": "Nike Women's Air Zoom Pegasus 37",
+      "price": 120.00,
+      "description": "With a responsive foam and a dynamic fit, Nike Air Zoom Pegasus 37 gives you the energy return you need to hit the pavement running.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/71ajHmTepOL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 590
+      }
+    },
+    {
+      "id": 29,
+      "title": "Ray-Ban Clubmaster Classic Sunglasses",
+      "price": 150.00,
+      "description": "Iconic Ray-Ban Clubmaster sunglasses are both retro and timeless. Inspired by the 50’s, the unmistakable design of the Clubmaster is worn by cultural intellectuals who lead the changed tomorrow.",
+      "category": "accessories",
+      "image": "https://m.media-amazon.com/images/I/51IJbohB06S._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 640
+      }
+    },
+    {
+      "id": 30,
+      "title": "Samsung Galaxy Watch 4 (44mm, GPS, Bluetooth)",
+      "price": 249.99,
+      "description": "The Galaxy Watch 4 lets you track fitness progress, body composition, and more with the first smartwatch to measure your body fat percentage, skeletal muscle, body water, and more.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61Jm8NXNc5L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 740
+      }
+    },
+    {
+      "id": 31,
+      "title": "HP ENVY 6055e All-in-One Wireless Color Printer",
+      "price": 169.99,
+      "description": "All-in-One Wireless Color Printer, Scanner, Copier, and Mobile Fax. Print documents, borderless photos, and more with HP Smart App and wireless printing.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51g-u6FlEZL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.1,
+        "count": 210
+      }
+    },
+    {
+      "id": 32,
+      "title": "Sony PlayStation 5 (PS5) Console",
+      "price": 499.99,
+      "description": "Experience lightning-fast loading, ultra-high speed SSD, and 4K gaming with the PlayStation 5 Console. Play a huge library of PS5 and PS4 games.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61p78Fn2-UL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 3000
+      }
+    },
+    {
+      "id": 33,
+      "title": "Echo Dot (4th Gen) | Smart speaker with Alexa",
+      "price": 49.99,
+      "description": "Meet the all-new Echo Dot - Our most popular smart speaker with Alexa. The sleek, compact design delivers crisp vocals and balanced bass for a full sound.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51maMLyRs4L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 8700
+      }
+    },
+    {
+      "id": 34,
+      "title": "Levi's Men's 511 Slim Fit Jeans",
+      "price": 59.99,
+      "description": "These jeans sit below the waist with a slim fit from hip to ankle, made from 99% cotton and 1% elastane for comfort and flexibility.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/51JUNF3LcSL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 540
+      }
+    },
+    {
+      "id": 35,
+      "title": "Patagonia Women's Nano Puff Jacket",
+      "price": 199.00,
+      "description": "The Nano Puff Jacket is an essential in any adventure wardrobe. Made from recycled materials and filled with lightweight, highly compressible PrimaLoft insulation, this jacket provides warmth even in wet conditions.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/612I0AtwsZL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 220
+      }
+    },
+    {
+      "id": 36,
+      "title": "ASICS Men's Gel-Kayano 28 Running Shoes",
+      "price": 160.00,
+      "description": "The GEL-KAYANO 28 shoe creates a stable stride with more responsive toe-off, cushioning, and a comfortable design for long-distance runs.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/G/01/shoes/Categories_-_Mens_Shoes.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 180
+      }
+    },
+    {
+      "id": 37,
+      "title": "Garmin Fenix 6 Pro Solar GPS Smartwatch",
+      "price": 799.99,
+      "description": "Performance GPS smartwatch with solar charging, advanced training metrics, maps, music, and a 2-week battery life in smartwatch mode.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61COgp2msoL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 630
+      }
+    },
+    {
+      "id": 38,
+      "title": "The North Face Men's Borealis Backpack",
+      "price": 89.00,
+      "description": "The North Face Borealis Backpack features a sleek design, spacious compartments, and FlexVent suspension system for all-day comfort.",
+      "category": "accessories",
+      "image": "https://m.media-amazon.com/images/I/81dIqlrsCZL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 370
+      }
+    },
+    {
+      "id": 39,
+      "title": "Canon EOS R6 Full-Frame Mirrorless Camera",
+      "price": 2499.00,
+      "description": "The EOS R6 features Canon's DIGIC X image processor, in-body stabilization, and 4K video, delivering incredible performance for professionals and enthusiasts alike.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71hpUUcC5uL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 155
+      }
+    },
+    {
+      "id": 40,
+      "title": "JBL Charge 4 Waterproof Portable Bluetooth Speaker",
+      "price": 129.95,
+      "description": "Wireless Bluetooth streaming with powerful stereo sound. Up to 20 hours of playtime and IPX7 waterproof design. Perfect for pool parties and outdoor adventures.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/71KCMeZRV6L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 1250
+      }
+    }
+  ],
+  "products2": [
+    
+    {
+      "id": 41,
+      "title": "Hamilton Beach Dual Breakfast Sandwich Maker",
+      "price": 39.99,
+      "description": "Quick and easy: Cook delicious breakfast sandwiches in just 5 minutes. Perfect for brunch or a quick, healthy meal.",
+      "category": "home appliances",
+      "image": "https://m.media-amazon.com/images/I/81ky0potEEL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 1500
+      }
+    },
+    {
+      "id": 42,
+      "title": "Instant Pot Duo 7-in-1 Electric Pressure Cooker",
+      "price": 89.99,
+      "description": "The most versatile kitchen appliance that replaces 7 kitchen devices including pressure cooker, slow cooker, and rice cooker.",
+      "category": "kitchen",
+      "image": "https://m.media-amazon.com/images/I/71LmN7FsaZL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 3400
+      }
+    },
+    {
+      "id": 43,
+      "title": "Dyson V11 Cordless Vacuum Cleaner",
+      "price": 599.99,
+      "description": "Dyson’s most powerful and intelligent cordless vacuum. Deep cleans carpets and hard floors with ease.",
+      "category": "home appliances",
+      "image": "https://m.media-amazon.com/images/I/51PSNwfHAlL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 1200
+      }
+    },
+    {
+      "id": 44,
+      "title": "L'Oreal Paris Revitalift Moisturizer",
+      "price": 27.99,
+      "description": "Anti-aging face moisturizer with SPF 25 to protect against sun damage while hydrating and firming skin.",
+      "category": "beauty",
+      "image": "https://m.media-amazon.com/images/I/81tTgiDDyWL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 600
+      }
+    },
+    {
+      "id": 45,
+      "title": "Philips Sonicare ProtectiveClean 6100 Rechargeable Electric Toothbrush",
+      "price": 129.99,
+      "description": "Electric toothbrush that removes up to 7x more plaque than a manual toothbrush. Includes 3 intensities and 3 modes.",
+      "category": "personal care",
+      "image": "https://m.media-amazon.com/images/I/81t25XAr0LL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 2400
+      }
+    },
+    {
+      "id": 46,
+      "title": "NutriBullet Pro - 13-Piece High-Speed Blender",
+      "price": 89.99,
+      "description": "Powerful 900-watt motor to blend even the toughest ingredients for smoothies, sauces, and more.",
+      "category": "kitchen",
+      "image": "https://m.media-amazon.com/images/I/71P05MnlksL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 900
+      }
+    },
+    {
+      "id": 47,
+      "title": "Adidas Ultraboost 21 Running Shoes",
+      "price": 180.00,
+      "description": "Responsive running shoes designed for performance with Boost cushioning technology.",
+      "category": "footwear",
+      "image": "https://m.media-amazon.com/images/I/71Kx25gubjL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 800
+      }
+    },
+    {
+      "id": 48,
+      "title": "Apple AirPods Pro",
+      "price": 249.99,
+      "description": "Active noise cancellation for immersive sound. Transparency mode for hearing and connecting with the world around you.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61SUj2aKoEL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 6700
+      }
+    },
+    {
+      "id": 49,
+      "title": "Nintendo Switch – OLED Model",
+      "price": 349.99,
+      "description": "The latest model of the popular gaming console, featuring a vibrant 7-inch OLED screen for enhanced gaming experience.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61nqNujSF2L._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 8500
+      }
+    },
+    {
+      "id": 50,
+      "title": "Le Creuset Enameled Cast Iron Dutch Oven",
+      "price": 369.95,
+      "description": "Iconic French cookware, ideal for slow-cooking, braising, and roasting, with superior heat retention and distribution.",
+      "category": "kitchen",
+      "image": "https://m.media-amazon.com/images/I/6180Lmu5fEL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 1200
+      }
+    },
+    {
+      "id": 51,
+      "title": "Sony WH-1000XM4 Wireless Noise Canceling Headphones",
+      "price": 348.00,
+      "description": "Industry-leading noise cancellation technology, exceptional sound quality, and up to 30 hours of battery life.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51ET-EQJMWL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 5100
+      }
+    },
+    {
+      "id": 52,
+      "title": "YETI Rambler 20 oz Tumbler",
+      "price": 29.99,
+      "description": "Durable stainless steel tumbler with double-wall vacuum insulation to keep your drinks hot or cold for hours.",
+      "category": "outdoor & sports",
+      "image": "https://m.media-amazon.com/images/I/61nuTP5jrSL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 2100
+      }
+    },
+    {
+      "id": 53,
+      "title": "Fitbit Charge 5 Advanced Fitness Tracker",
+      "price": 149.95,
+      "description": "Track your fitness, heart rate, sleep, and stress with the latest fitness tracker that includes built-in GPS and ECG app.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51qHOQ7FaJL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 3500
+      }
+    },
+    {
+      "id": 54,
+      "title": "Oculus Quest 2 — Advanced All-In-One Virtual Reality Headset",
+      "price": 399.00,
+      "description": "Experience total immersion in virtual reality with the latest Oculus Quest 2 headset, offering intuitive controls and crisp visuals.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/61mpOk4jguL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 4600
+      }
+    },
+    {
+      "id": 55,
+      "title": "Theragun Elite Handheld Percussive Massage Device",
+      "price": 399.99,
+      "description": "Deep tissue massage gun for muscle recovery and pain relief, featuring quiet technology and customizable speed settings.",
+      "category": "health & wellness",
+      "image": "https://m.media-amazon.com/images/I/61JqEoFS7dL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 2300
+      }
+    },
+    {
+      "id": 56,
+      "title": "Keurig K-Supreme Plus Smart Coffee Maker",
+      "price": 199.99,
+      "description": "Brew stronger, hotter, and more customized coffee with Keurig’s most advanced coffee maker. Features WiFi connectivity.",
+      "category": "kitchen",
+      "image": "https://m.media-amazon.com/images/I/61zmGKxxd4S._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 3200
+      }
+    },
+    {
+      "id": 57,
+      "title": "Hydro Flask 32 oz Water Bottle",
+      "price": 44.95,
+      "description": "Insulated stainless steel water bottle that keeps beverages cold for up to 24 hours or hot for up to 12 hours.",
+      "category": "outdoor & sports",
+      "image": "https://m.media-amazon.com/images/I/61INlllEk3L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 1800
+      }
+    },
+    {
+      "id": 58,
+      "title": "GoPro HERO10 Black - Waterproof Action Camera",
+      "price": 499.99,
+      "description": "Capture high-quality 5.3K video and stunning 23MP photos with the latest GoPro HERO10, perfect for adventures.",
+      "category": "electronics",
+      "image": "https://m.media-amazon.com/images/I/51mcDVUBaxL._AC_UY327_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 1800
+      }
+    },
+    {
+      "id": 61,
+      "title": "ASOS Women's Faux Leather Biker Jacket",
+      "price": 120.00,
+      "description": "Stylish faux leather biker jacket with a slim fit. Adds edge to any outfit.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/81+TmohEacL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 110
+      }
+    },
+    {
+      "id": 62,
+      "title": "Levi's Men's 511 Slim Fit Jeans",
+      "price": 69.50,
+      "description": "Classic slim-fit jeans with a bit of stretch for added comfort and durability. Perfect for any casual or smart-casual occasion.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/51JUNF3LcSL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 85
+      }
+    },
+    {
+      "id": 5,
+      "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 400
+      }
+    },
+    {
+      "id": 6,
+      "title": "Solid Gold Petite Micropave",
+      "price": 168,
+      "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days. Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3.9,
+        "count": 70
+      }
+    },
+    {
+      "id": 7,
+      "title": "White Gold Plated Princess",
+      "price": 9.99,
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 3,
+        "count": 400
+      }
+    },
+    {
+      "id": 8,
+      "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+      "price": 10.99,
+      "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel.",
+      "category": "jewelery",
+      "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+      "rating": {
+        "rate": 1.9,
+        "count": 100
+      }
+    },
+    {
+      "id": 63,
+      "title": "Nike Men's Sportswear Club Fleece Hoodie",
+      "price": 55.00,
+      "description": "Soft and comfortable fleece hoodie with adjustable drawstring for a snug fit. Ideal for workouts and casual wear.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/51cB8iGPJZL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 120
+      }
+    },
+    {
+      "id": 64,
+      "title": "Adidas Women's Originals Trefoil Tee",
+      "price": 30.00,
+      "description": "A classic Adidas tee featuring the iconic Trefoil logo. Made with soft cotton for all-day comfort.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/61QpVnou03L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 70
+      }
+    },
+    {
+      "id": 65,
+      "title": "Columbia Women's Arcadia II Rain Jacket",
+      "price": 90.00,
+      "description": "Waterproof and breathable rain jacket with an adjustable hood. Stay dry and comfortable during outdoor activities.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/71zeYlI6zaL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 60
+      }
+    },
+    {
+      "id": 66,
+      "title": "Under Armour Men's Charged Cotton T-Shirt",
+      "price": 25.00,
+      "description": "Quick-drying and ultra-soft T-shirt made from a blend of cotton and polyester. Ideal for workouts and casual wear.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/6172Qr000GL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 95
+      }
+    },
+    {
+      "id": 67,
+      "title": "Patagonia Women's Better Sweater Fleece Jacket",
+      "price": 139.00,
+      "description": "Warm and versatile fleece jacket with a sweater-knit face and soft interior. Perfect for layering in colder weather.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/91399U6Em1L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 150
+      }
+    },
+    {
+      "id": 68,
+      "title": "The North Face Men's Resolve 2 Jacket",
+      "price": 99.00,
+      "description": "Waterproof and windproof jacket designed to keep you dry and comfortable in unpredictable weather.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/8188GhoppEL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 130
+      }
+    },
+    {
+      "id": 69,
+      "title": "Puma Women's T7 Track Jacket",
+      "price": 60.00,
+      "description": "Retro-inspired track jacket with a slim fit and iconic T7 stripes. A stylish choice for casual wear or light workouts.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/71eQ5lVnpqS._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 40
+      }
+    },
+    {
+      "id": 70,
+      "title": "Carhartt Men's Relaxed Fit Work T-Shirt",
+      "price": 25.00,
+      "description": "Durable and heavyweight cotton T-shirt that stands up to tough workdays and outdoor activities.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/51ZuATQbw0L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 110
+      }
+    },
+    {
+      "id": 71,
+      "title": "Champion Women's Powerblend Fleece Joggers",
+      "price": 40.00,
+      "description": "Comfortable and warm fleece joggers perfect for lounging or running errands. Elastic waistband for a customized fit.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/71l9JnOqS5L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 80
+      }
+    },
+    {
+      "id": 72,
+      "title": "Timberland Men's Rugged Waterproof Boots",
+      "price": 190.00,
+      "description": "Tough, waterproof boots made from premium leather, built to last in harsh conditions. Ideal for outdoor adventures.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/81aFKcgLqlL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 145
+      }
+    },
+    {
+      "id": 73,
+      "title": "Lululemon Women's Align High-Rise Leggings",
+      "price": 98.00,
+      "description": "Soft and lightweight leggings with a high-rise waistband, designed for yoga and light activities.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/71srsUKtDkL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 200
+      }
+    },
+    {
+      "id": 74,
+      "title": "H&M Men's Slim Fit Blazer",
+      "price": 79.99,
+      "description": "A sharp, tailored blazer that's perfect for formal occasions or smart-casual settings.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/71CVtej+I6L._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 55
+      }
+    },
+    {
+      "id": 75,
+      "title": "Uniqlo Women's Ultra Light Down Jacket",
+      "price": 70.00,
+      "description": "Lightweight and packable down jacket with excellent warmth retention. Great for layering or travel.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/61BDTL7FlBL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 90
+      }
+    },
+    {
+      "id": 76,
+      "title": "Ralph Lauren Men's Polo Shirt",
+      "price": 85.00,
+      "description": "Classic polo shirt with the iconic Ralph Lauren logo. Perfect for smart-casual looks.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/41Q9DtK2bfL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 100
+      }
+    },
+    {
+      "id": 77,
+      "title": "Zara Women's Printed Midi Dress",
+      "price": 59.90,
+      "description": "A flowy, printed midi dress that's perfect for casual and semi-formal occasions.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/81ZHcH+PQnL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 50
+      }
+    },
+    {
+      "id": 78,
+      "title": "Gap Men's Khaki Straight-Fit Pants",
+      "price": 50.00,
+      "description": "Comfortable and versatile straight-fit pants that work for both casual and business-casual settings.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/61QWooWrTGL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.2,
+        "count": 75
+      }
+    },
+    {
+      "id": 79,
+      "title": "Abercrombie & Fitch Women's Long Cardigan",
+      "price": 85.00,
+      "description": "A cozy, oversized long cardigan that pairs well with any casual outfit.",
+      "category": "womenfashion",
+      "image": "https://m.media-amazon.com/images/I/61rcmp48iDL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 40
+      }
+    },
+    {
+      "id": 80,
+      "title": "Express Men's Slim-Fit Dress Shirt",
+      "price": 49.90,
+      "description": "A slim-fit dress shirt with stretch for added comfort, perfect for business or formal events.",
+      "category": "menfashion",
+      "image": "https://m.media-amazon.com/images/I/61gZPpgjWRL._AC_UL480_FMwebp_QL65_.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 60
+      }
+    }
+  ]
+}

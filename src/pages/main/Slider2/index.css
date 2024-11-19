@@ -1,0 +1,38 @@
+.slider-2 .slick-next{
+    right: 90px !important;
+  z-index: 10;
+  height: 240px !important;
+  width: 84px !important;
+}
+.slider-2 .slick-prev{
+    left: 70px !important;
+    z-index: 10;
+    height: 240px !important;
+    width: 84px !important;
+}
+
+
+.slider-2 .slick-prev:hover{
+   border: 2px solid black !important;
+}
+.slider-2 .slick-next:hover{
+    border: 2px solid black !important;
+ }
+.slider-2 .slick-next::before{
+    content: "\f105" !important;
+    font-family: FontAwesome !important;
+    font-size: 55px !important;
+    color: black !important;
+}
+.slider-2 .slick-prev::before{
+    content: "\f104" !important;
+    font-family: FontAwesome !important;
+    font-size: 55px !important;
+    color: black !important;
+}
+.slider-2 .slick-dots{
+    bottom: 25px !important;
+}
+.slider-2 .slick-dots  li button::before{
+    font-size: 8px !important;
+}
